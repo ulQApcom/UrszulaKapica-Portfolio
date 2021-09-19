@@ -19,15 +19,21 @@ Jako wieloletni pracownik w obszarze egzekwowania należności posiadam doświad
 * knowledge of the ISTQB syllabus
 * test managements tools
 * defect tracking tools
+* SQL
 
 
 ## Certificates
 
-Kodilla Bootcamp Tester Automatyzujący ISTQB
-
 ## Courses
 
+Kodilla Bootcamp Tester Automatyzujący ISTQB
+
 ## Books
+
+* Podróż przez świat testowania, Karolina Pawłowska & Natalia Pawlak
+* Pasja Testowania, Krzysztof Jadczyk
+* Certyfikowany tester ISTQB. Poziom podstawowy, Adam Roman, Lucjan Stapp
+* Kierunek Jakość, jak unikać błędów w projekcie, Aleksandra Kunysz
 
 ## Groups on Facebook
 
