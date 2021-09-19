@@ -9,16 +9,16 @@ Jako wieloletni pracownik w obszarze egzekwowania należności posiadam doświad
 
 ## Tools
 
-Jira
-InteliJ IDEA
-Slack
-Trello
+* Jira
+* InteliJ IDEA
+* Slack
+* Trello
 
 ## Tech Skills
 
-knowledge of the ISTQB syllabus
-test managements tools
-defect tracking tools
+* knowledge of the ISTQB syllabus
+* test managements tools
+* defect tracking tools
 
 
 ## Certificates
