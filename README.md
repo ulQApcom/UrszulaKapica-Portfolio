@@ -18,15 +18,30 @@ automation
 ## Tools
 
 * Jira
+* TestFlo
+* Confluence
+* Postman
+* Cypress
+* DevTools
+* VSC
 * InteliJ IDEA
+* MS 365
 * Slack
 * Trello
 
 ## Tech Skills
 
-* knowledge of the ISTQB syllabus
-* test managements tools
-* defect tracking tools
+* Testing knowledge compatible with ISTQB
+* Static testing (analyzing documentation and
+architecture of IT solutions)
+* Test design (preparation of test cases and
+scenarios)
+* Testing (web + mobile)
+* Preparation of test reports
+* Cooperation with testers and developers in
+the project team at all stages of product
+development
+* HTML, CSS
 * SQL
 
 
