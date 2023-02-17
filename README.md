@@ -4,8 +4,16 @@ My Tester's Portfolio
 
 ## About me
 
-Jako wieloletni pracownik w obszarze egzekwowania należności posiadam doświadczenie pracy z trudnym klientem, obsługi administracyjnej 
- a także znajomości oprogramowania egzekucyjnego. Obecnie jestem studentką Wyższej Szkoły Bankowej we Wrocławiu na kierunku Bezpieczeństwo Wewnętrzne specjalność cyberbezpieczeństwo. Równolegle zdobywam wiedzę i doświadczenie w obszarze testowania oprogramowania, którym będę się dzielić ta tej stronie.
+I have worked as a manual testerin
+several Polish and International projects,
+which has allowed me not only to gain
+practical testing skills at various levels of
+testing but also to demonstrate my
+ability to adapt easily to the
+requirements of very diverse projects
+and teams. I would like to deepen my
+knowledge and improve my skills in test
+automation
 
 ## Tools
 
