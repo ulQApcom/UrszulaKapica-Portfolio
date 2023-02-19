@@ -58,6 +58,13 @@ development
 
 ## Groups on Facebook
 
+* Testuj,dziewczyno!
+* Cherry-IT:Zostań Testerem
+* Testowanie oprogramowania
+* Testowanie oprogramowania - Praca, Ogłoszenia
+* Tester oprogramowania - wsparcie na starcie
+* ISTQB - egzaminy, pytania, testy
+
 ## Blogs/Podcasts
 
 ## Youtubers
