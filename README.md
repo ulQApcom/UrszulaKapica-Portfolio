@@ -28,6 +28,7 @@ scenarios)
 the project team at all stages of product
 development
 
+
 * Databases: MySQL, MS SQL (basic)
 * Languages: Java, JavaScript, Python (basic)
 * Automation Testing: Postman, Cypress, Selenium
