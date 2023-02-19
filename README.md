@@ -63,7 +63,7 @@ development
 * Testowanie oprogramowania
 * Testowanie oprogramowania - Praca, Ogłoszenia
 * Tester oprogramowania - wsparcie na starcie
-* ISTQB - egzaminy, pytania, testy
+* [ISTQB - egzaminy, pytania, testy](#https://www.facebook.com/groups/194288250951242/)
 
 ## Blogs/Podcasts
 
