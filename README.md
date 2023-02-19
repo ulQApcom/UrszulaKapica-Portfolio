@@ -15,16 +15,6 @@ and teams. I would like to deepen my
 knowledge and improve my skills in test
 automation
 
-## Tools
-
-* Jira, TestFlo
-* Confluence
-* Postman, Cypress
-* DevTools
-* VSC, InteliJ IDEA
-* MS 365
-* Slack, Trello
-
 ## Tech Skills
 
 * Testing knowledge compatible with ISTQB
@@ -37,8 +27,15 @@ scenarios)
 * Cooperation with testers and developers in
 the project team at all stages of product
 development
-* HTML, CSS
-* SQL
+
+* Databases: MySQL, MS SQL (basic)
+* Languages: Java, JavaScript, Python (basic)
+* Automation Testing: Postman, Cypress, Selenium
+* Frameworks:
+* Version Control Systems: Git
+* Tools used in testing: Dev Tools
+* Web Dewelopment: HTML, CSS
+* Other tools: Jira, TestFlo, Confluence, Trello, Slack, VSC, InteliJ IDEA, MS 365
 
 
 ## Certificates
@@ -67,12 +64,11 @@ development
 * [Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie)
 
 ## Blogs/Podcasts
+* [Porozmawiajmy o IT](https://open.spotify.com/episode/009LkODNNzGVYRN6xfAib6)
 
 ## Youtubers
 
 ## Webinars
-
-## Article
 
 ## My test case example
 
