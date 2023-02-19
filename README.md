@@ -64,7 +64,7 @@ development
 * [Testowanie oprogramowania - Praca, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
 * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
-* [Start w IT - początkujący tester oprogramowania i programista] (https://www.facebook.com/groups/czyitjestdlamnie)
+* [Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie)
 
 ## Blogs/Podcasts
 
