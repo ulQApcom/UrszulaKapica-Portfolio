@@ -17,17 +17,13 @@ automation
 
 ## Tools
 
-* Jira
-* TestFlo
+* Jira, TestFlo
 * Confluence
-* Postman
-* Cypress
+* Postman, Cypress
 * DevTools
-* VSC
-* InteliJ IDEA
+* VSC, InteliJ IDEA
 * MS 365
-* Slack
-* Trello
+* Slack, Trello
 
 ## Tech Skills
 
@@ -49,7 +45,8 @@ development
 
 ## Courses
 
-Kodilla Bootcamp Tester Automatyzujący ISTQB
+* Kodilla Bootcamp Tester Automatyzujący ISTQB
+* Testowanie REST API Postman w praktyce. Automatyzacja testów API Newman + Jenkins CI/CD {Rafał Podraza}
 
 ## Books
 
