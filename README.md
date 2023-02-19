@@ -28,6 +28,7 @@ scenarios)
 the project team at all stages of product
 development
 
+##
 
 * Databases: MySQL, MS SQL (basic)
 * Languages: Java, JavaScript, Python (basic)
@@ -73,6 +74,11 @@ development
 * [Porozmawiajmy o IT](https://open.spotify.com/episode/009LkODNNzGVYRN6xfAib6)
 
 ## Blogs
+
+* testerzy.pl
+* testuj.pl - Test, Bugs & Rock'n'Roll
+* tester.milenabednarczyk.pl
+* bugfreeblog.com
 
 ## Youtubers
 
