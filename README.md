@@ -46,7 +46,8 @@ development
 
 * Kodilla Bootcamp Tester Automatyzujący ISTQB
 * Testowanie REST API Postman w praktyce. Automatyzacja testów API Newman + Jenkins CI/CD {Rafał Podraza}
-* Podstawy Web Developmentu {Bartłomiej Borowczy, Wojciech Golędzinowski, StudiujęIT}
+* Automatyzacja testów w Cypress {Rafał Podraza}
+* Podstawy Web Developmentu {Bartłomiej Borowczyk, Wojciech Golędzinowski ,StudiujęIT}
 
 ## Books
 
