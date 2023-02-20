@@ -66,9 +66,11 @@ development
 * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
 * [Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie)
 
-## English
+## learning English
 
 * [PODCAST RealLife English](https://open.spotify.com/show/0xBw3oEE9tW79gKd9pQHdN)
+* [Meetup. Do you feel your English could sound better?](https://www.meetup.com/pl-PL/english-group-lesson-basel/)
+* [The best teacher](https://winterfloodenglish.ch/)
 
 ## Podcasts
 
