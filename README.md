@@ -31,8 +31,8 @@ development
 ##
 
 * Databases: MySQL, MS SQL (basic)
-* Languages: Java, JavaScript, Python (basic)
-* Automation Testing: Postman, Cypress, Selenium
+* Languages: JavaScript, Java, Python: (basic)
+* Automation Testing: Postman, Cypress, Selenium, Playwright
 * Frameworks:
 * Version Control Systems: Git
 * Tools used in testing: Dev Tools
