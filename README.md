@@ -31,9 +31,9 @@ development
 ##
 
 * Databases: MySQL, MS SQL (basic)
-* Languages: JavaScript, Java, Python: (basic)
-* Automation Testing: Postman, Cypress, Selenium, Playwright
-* Frameworks:
+* Languages: JavaScript, Java, Python: (in progress)
+* Automation Testing: Postman, Cypress, Selenium, Playwright (in progress)
+* Frameworks: React
 * Version Control Systems: Git
 * Tools used in testing: Dev Tools
 * Web Dewelopment: HTML, CSS
@@ -85,10 +85,14 @@ development
 
 ## Youtubers
 
-## Webinars
+* jaktestowac.pl
+* AkademiaQA
+* Technika Programowania
 
-## My test case example
+## Webinars (in progress)
 
-## My bugs report
+## My test case example (in progress)
 
-## My projects
+## My bugs report (in progress)
+
+## My projects (in progress)
