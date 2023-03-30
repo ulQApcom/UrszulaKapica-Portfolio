@@ -47,6 +47,7 @@ development
 * Kodilla Bootcamp Tester Automatyzujący ISTQB
 * Testowanie REST API Postman w praktyce. Automatyzacja testów API Newman + Jenkins CI/CD {Rafał Podraza}
 * Automatyzacja testów w Cypress {Rafał Podraza}
+* SQL - język zapytań do bazy danych SQL Server {Dariusz Skórniewski}
 * Podstawy Web Developmentu {Bartłomiej Borowczyk, Wojciech Golędzinowski ,StudiujęIT}
 
 ## Books
