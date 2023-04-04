@@ -30,7 +30,7 @@ development
 
 ##
 
-* Databases: MySQL, MS SQL (basic)
+* Databases: SQL [XAMPP, MySQL/MariaDB, Microsoft SQL Server Management Studio], NoSQL [Cypher, Neo4j] -  (basic)
 * Languages: JavaScript, Java, Python: (in progress)
 * Automation Testing: Postman, Cypress, Selenium, Playwright (in progress)
 * Frameworks: React
@@ -48,6 +48,7 @@ development
 * Testowanie REST API Postman w praktyce. Automatyzacja testów API Newman + Jenkins CI/CD {Rafał Podraza}
 * Automatyzacja testów w Cypress {Rafał Podraza}
 * SQL - język zapytań do bazy danych SQL Server {Dariusz Skórniewski}
+* Bazy Danych {Wojciech Golędzinowski, Studiuję IT}
 * Podstawy Web Developmentu {Bartłomiej Borowczyk, Wojciech Golędzinowski ,StudiujęIT}
 
 ## Books
